@@ -1,0 +1,53 @@
+{
+  "burgurrlogo.jpg": {
+    "mime": "image/jpeg"
+  },
+  "logopic.jpg": {
+    "mime": "image/jpeg"
+  },
+  "burgur1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "burgur001.png": {
+    "mime": "image/png"
+  },
+  "burgur01.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "b1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "doordash.webp": {
+    "mime": "image/webp"
+  },
+  "doordash.png": {
+    "mime": "image/png"
+  },
+  "postmates.png": {
+    "mime": "image/png"
+  },
+  "rappi.png": {
+    "mime": "image/png"
+  },
+  "grubhub.png": {
+    "mime": "image/png"
+  },
+  "breakfast.png": {
+    "mime": "image/png"
+  },
+  "dish.png": {
+    "mime": "image/png"
+  },
+  "drink.png": {
+    "mime": "image/png"
+  },
+  "desserts.png": {
+    "mime": "image/png"
+  },
+  "s3.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "logo1.png": {
+    "mime": "image/png"
+  }
+}
